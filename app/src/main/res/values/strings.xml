@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News and CRUD</string>
+    <string name="news_app">News App</string>
+    <string name="crud_app">CRUD App</string>
+    <string name="welcome">Welcome</string>
+    <string name="covid_19">Covid-19</string>
+    <string name="info_tips">Info / Tips</string>
+    <string name="all_news">Semua Berita</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
